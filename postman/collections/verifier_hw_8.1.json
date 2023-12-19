@@ -533,7 +533,7 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "f308b363-1381-4b33-a16b-eff2e446e820",
+				"id": "2d1f0065-e5c9-4704-a94b-c70bfc380621",
 				"type": "text/javascript",
 				"exec": [
 					""
@@ -543,7 +543,7 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "78e61ca7-eced-4b7d-91e3-01e9771d3733",
+				"id": "b149ca4a-022c-4955-aaec-c99736dcbe82",
 				"type": "text/javascript",
 				"exec": [
 					""
@@ -553,48 +553,48 @@
 	],
 	"variable": [
 		{
-			"id": "28162942-3da0-418f-9178-b2145a77366a",
+			"id": "0cf5f014-e086-4c2f-8f35-0a97ed01ddf7",
 			"key": "baseUrl",
 			"value": "http://localhost:8080",
 			"type": "string"
 		},
 		{
-			"id": "4fb802da-aeae-4389-b9bd-0ca28e0a86f0",
+			"id": "de33b515-2543-44bb-bfd6-51809a1c9619",
 			"key": "adminLogin",
 			"value": "admin",
 			"type": "string"
 		},
 		{
-			"id": "aced3943-f533-4c62-b3c8-a0af34d2d4d9",
+			"id": "a940ea97-366f-4128-ac51-46dff6cd0ee2",
 			"key": "adminPassword",
 			"value": "admin",
 			"type": "string"
 		},
 		{
-			"id": "425d0c81-cd8e-4716-a272-575c53fbe150",
+			"id": "ab6a423c-88e1-4a22-9b3d-46413f52357b",
 			"key": "id_token",
 			"value": "{{id_token}}",
 			"type": "string"
 		},
 		{
-			"id": "cc76693b-40a8-4d60-9fc0-71e674268deb",
+			"id": "72ee1ae9-502c-4a7f-b7c4-81893b879f3c",
 			"key": "currentAmountOfTasks",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "722b5291-b000-4f55-bf85-4763060a8ded",
+			"id": "1e7c66a7-ca8b-4897-abae-880ea56683a6",
 			"key": "targetNumberOfTasks",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "2b428d1a-0bb8-459f-9dfc-ef9464f9bcc6",
+			"id": "6f3b2668-5ff9-4fb3-9b5e-a94b40aab961",
 			"key": "ids",
 			"value": ""
 		},
 		{
-			"id": "b3919298-f03a-4979-b97f-e5bf759bd8b2",
+			"id": "bb57d5e5-ef65-4012-81f8-cfc99d793cce",
 			"key": "lastID",
 			"value": ""
 		}
