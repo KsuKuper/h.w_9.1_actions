@@ -32,5 +32,4 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          npx newman run https://api.postman.com/collections/20300544-7fa01b0b-8ca6-4753-9ed1-fa633169e88e?access_key=PMAT-01HH9KTKZJQPP9V0ZQRMM1TN22
