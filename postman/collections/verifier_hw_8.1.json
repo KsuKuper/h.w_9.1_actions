@@ -533,7 +533,7 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "2d1f0065-e5c9-4704-a94b-c70bfc380621",
+				"id": "f22b9808-5742-4be6-b920-a31796bfea2d",
 				"type": "text/javascript",
 				"exec": [
 					""
@@ -543,7 +543,7 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "b149ca4a-022c-4955-aaec-c99736dcbe82",
+				"id": "0dd462fc-bbe8-4710-81e5-e34760ae8f15",
 				"type": "text/javascript",
 				"exec": [
 					""
@@ -553,48 +553,48 @@
 	],
 	"variable": [
 		{
-			"id": "0cf5f014-e086-4c2f-8f35-0a97ed01ddf7",
+			"id": "33029597-0212-44cc-a549-dbaabc451991",
 			"key": "baseUrl",
-			"value": "http://localhost:8080",
+			"value": "https://sqlverifier-live-6e21ca0ed768.herokuapp.com",
 			"type": "string"
 		},
 		{
-			"id": "de33b515-2543-44bb-bfd6-51809a1c9619",
+			"id": "d12f70e2-d006-4e63-a0a8-df145b82cf63",
 			"key": "adminLogin",
 			"value": "admin",
 			"type": "string"
 		},
 		{
-			"id": "a940ea97-366f-4128-ac51-46dff6cd0ee2",
+			"id": "6158149a-f960-450d-9b4b-7b1056c2d8df",
 			"key": "adminPassword",
 			"value": "admin",
 			"type": "string"
 		},
 		{
-			"id": "ab6a423c-88e1-4a22-9b3d-46413f52357b",
+			"id": "bb69ddb8-555e-4a51-aa04-2873cf6e3d15",
 			"key": "id_token",
 			"value": "{{id_token}}",
 			"type": "string"
 		},
 		{
-			"id": "72ee1ae9-502c-4a7f-b7c4-81893b879f3c",
+			"id": "89172202-71eb-4ae0-b447-1f479e4451cf",
 			"key": "currentAmountOfTasks",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "1e7c66a7-ca8b-4897-abae-880ea56683a6",
+			"id": "53934147-aee7-47ea-82bf-97eca9577fec",
 			"key": "targetNumberOfTasks",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "6f3b2668-5ff9-4fb3-9b5e-a94b40aab961",
+			"id": "d87d9a4c-6381-421a-9909-f137a8f456d5",
 			"key": "ids",
 			"value": ""
 		},
 		{
-			"id": "bb57d5e5-ef65-4012-81f8-cfc99d793cce",
+			"id": "443c7a3f-5154-42a5-8aa2-cbed1aec5f8b",
 			"key": "lastID",
 			"value": ""
 		}
